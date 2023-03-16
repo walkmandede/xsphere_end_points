@@ -1,4 +1,4 @@
 {
-  "fary_taxi_end_user" : "https://api.farytaxi.com/",
+  "fary_taxi_user" : "https://api.farytaxi.com/",
    "fary_taxi_driver_user" : "https://api.farytaxi.com/"
 }
