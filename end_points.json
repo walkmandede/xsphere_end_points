@@ -1,4 +1,4 @@
 {
-  "fary_taxi_user" : "http://192.168.1.32:4000/",
-   "fary_taxi_driver_user" : "http://192.168.1.32:4000/"
+  "fary_taxi_user" : "http://192.168.1.48:4000/",
+   "fary_taxi_driver_user" : "http://192.168.1.48:4000/"
 }
